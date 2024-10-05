@@ -32,8 +32,8 @@ body {
     color: #555;
 }
 
-.product-card button {
-    background-color: #28a745;
+.productoAgregar {
+    background-color: #255531;
     color: #fff;
     border: none;
     padding: 10px 15px;
@@ -42,3 +42,12 @@ body {
     transition: background-color 0.3s;
 }
 
+.productoAgregar:hover{
+    background-color: #2e723fbd;
+}
+.productoImg {
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 8px; 
+    margin-bottom: 10px;
+}

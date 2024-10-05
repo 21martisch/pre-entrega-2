@@ -1,0 +1,11 @@
+[
+    { "id": 1, "nombre": "Acolchado",  "precio": 75000, "img": "../assets/img-products/acolchado.webp"},
+    { "id": 2, "nombre": "Juego de sabanas",  "precio": 56900, "img": "../assets/img-products/sabana.webp" },
+    { "id": 3, "nombre": "Alfombra de baño",  "precio": 9650, "img": "../assets/img-products/alfombra-baño.webp"}, 
+    { "id": 4, "nombre": "Set de baño",  "precio": 15000, "img": "../assets/img-products/setBaño.webp"},
+    { "id": 5, "nombre": "Bateria cocina",  "precio": 185000, "img": "../assets/img-products/bateriaCocina.webp" },
+    { "id": 6, "nombre": "Set x6 platos playos", "precio": 64000, "img": "../assets/img-products/setPlatosPlayos.webp" },
+    { "id": 7, "nombre": "Organizador acrilico", "precio": 4800, "img": "../assets/img-products/organizador.webp" },
+    { "id": 8, "nombre": "Vasija 3D", "precio": 20000, "img": "../assets/img-products/vasija3d.webp"}
+
+]
